@@ -13,7 +13,7 @@ Skills
 Contact
 
 - GitHub: https://github.com/elon00
-- Email: add-your-email@example.com
+- Email: martinlutherupa1@gmail.com
 
 Experience
 
