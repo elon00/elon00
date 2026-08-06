@@ -1,4 +1,4 @@
-# Hi, I’m elon00 👋
+# Hi 👋
 
 > Fresh coder. Curious mind. Relentless learner.
 
@@ -72,6 +72,6 @@ JavaScript · TypeScript · Python · Node.js · Express · HTML · CSS · Git �
 ## Contact
 
 - GitHub: https://github.com/elon00
-- Email: add-your-email@example.com (edit this file to add your real email)
+- Email: martinlutherupa1@gmail.com
 
 <p align="center">Thanks for visiting — I’m learning and shipping every day. Let’s build something great 🚀</p>
