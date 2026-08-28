@@ -1,77 +1,57 @@
-# Hi 👋
+# Hi 👋 I’m elon00
 
-> Fresh coder. Curious mind. Relentless learner.
+> Building at the intersection of AI, blockchain, cryptography, and quantum computing — with an evidence-first engineering mindset.
 
-I’m starting my journey in software development — building small, useful projects while learning clean code, testing, and real-world workflows. I focus on practical progress: shipping, learning from feedback, and improving every week.
+I build, test, document, and iterate on software projects across Web3, AI, cryptography, and quantum-computing experiments.
 
----
+## 🧭 Engineering principles
 
-## What I value
+- **Reality first:** implemented capabilities are separated from simulations, prototypes, and research.
+- **Evidence over claims:** production, security, blockchain, AI, and quantum claims require reproducible evidence.
+- **Fail closed:** missing or unverifiable evidence never becomes a PASS automatically.
+- **Security by default:** secrets, private keys, seed phrases, and credentials do not belong in source code.
+- **Test before trust:** CI, negative tests, dependency checks, and reproducible verification are part of the workflow.
 
-- Simplicity: solve the problem with the simplest correct solution.
-- Consistency: small improvements every day win.
-- Readability: code is written for teammates and future-me.
-- Testing: verify assumptions early and often.
+## 🚀 Current focus
 
----
+- AI-native Web3 and multi-chain systems
+- Post-quantum cryptography and quantum algorithms
+- Autonomous-agent architecture with explicit policy controls
+- x402/payment-enabled agent commerce
+- Security, testing, CI/CD, and production-readiness automation
 
-## Quick facts
+## 🛡️ THE CREATOR Master Guardian
 
-- 🔭 Currently learning: JavaScript, TypeScript, Python, and backend fundamentals
-- 🌱 Focus areas: Web development, APIs, data structures & algorithms, Git & CI
-- 💬 I’m open to: mentorship, beginner-friendly issues, code reviews
-- ⚡ Fun: I turn simple ideas into working demos and iterate fast
+My repositories are being progressively governed by a central evidence-first rulebook:
 
----
+**DISCOVER → CLASSIFY → AUDIT → REPAIR → TEST → VERIFY → DOCUMENT → PASS/FAIL**
 
-## Featured projects
+The governance system explicitly distinguishes:
 
-I keep projects small, documented, and beginner-friendly. Each project includes a clear README and first-issues to help contributors or mentors get involved.
+`PRODUCTION_READY` · `DEVELOPMENT_READY` · `RESEARCH` · `SIMULATION` · `EDUCATIONAL` · `ARCHIVE` · `BLOCKED`
 
-- Portfolio Website — A clean personal site to showcase projects and contact info (https://github.com/elon00/portfolio)
-- Notes API — Small REST API to practice endpoints, tests, and persistence (https://github.com/elon00/notes-api)
-- Todo CLI — A tiny command-line app to practice I/O and packaging (https://github.com/elon00/todo-cli)
+A repository is never called production-ready merely because a README says so.
 
-(If a repo link is empty, it means I’ll create that starter repo next — every project here will be small, documented, and easy to explore.)
+## ⭐ Selected ecosystem
 
----
+- **QMoosa Nexus** — AI-native multi-chain/Web3 experimentation and execution architecture.
+- **SHOR x402** — post-quantum autonomous-agent commerce research/prototype.
+- **Martin’s Algorithm** — crypto-asset intelligence/recovery research with approval and safety boundaries.
+- **Quantum / cryptography projects** — experiments and learning implementations around quantum algorithms and post-quantum security.
 
-## Skills & tools
+## 🔬 Research mindset
 
-JavaScript · TypeScript · Python · Node.js · Express · HTML · CSS · Git · GitHub · Docker (learning)
+I am particularly interested in the practical intersection of **post-quantum cryptography, AI agents, blockchain infrastructure, and quantum computing**.
 
----
+Research and prototype repositories are intentionally labeled as such; experimental code is not presented as production infrastructure without evidence.
 
-## Roadmap (next 6 months)
+## 🤝 Collaboration
 
-1. Build and deploy my portfolio website (GitHub Pages / Netlify).
-2. Ship three small apps (CLI, REST API, frontend SPA) with tests and CI.
-3. Automate tests and deploys using GitHub Actions.
-4. Make first open-source contribution by fixing beginner issues & improving docs.
+I welcome constructive code review, security feedback, reproducibility improvements, and research collaboration.
 
----
+## 🔗 GitHub
 
-## How you can help
+- Profile: https://github.com/elon00
+- Master Guardian: https://github.com/elon00/magical-garbage
 
-- Star or follow to encourage steady progress.
-- Open an issue suggesting a simple task I can try.
-- Provide feedback on project structure, testing, or README clarity.
-
----
-
-## Stats & activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=elon00&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img alt="elon00's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=elon00&show_icons=true&theme=default&hide_border=true" />
-</picture>
-
-
----
-
-## Contact
-
-- GitHub: https://github.com/elon00
-- Email: martinlutherupa1@gmail.com
-
-<p align="center">Thanks for visiting — I’m learning and shipping every day. Let’s build something great 🚀</p>
+<p align="center"><strong>Build boldly. Verify everything. Ship only what the evidence supports. 🚀</strong></p>
