@@ -1,7 +1,7 @@
 # Hi 👋 I’m elon00
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=World-Class+AI+Infrastructure+%26+Physical+AI+Architect;NIST+Post-Quantum+Cryptography+(FIPS+203%20%26%20204)+Pioneer;Autonomous+Agentics+%26+Multi-Model+Inference+Gateways;Universal+Reality+System+(URS+v2.0)+10.0%2F10+Certified" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=World-Class+AI+Infrastructure+%26+Physical+AI+Architect;NIST+Post-Quantum+Cryptography+(FIPS+203+%26+204)+Pioneer;Autonomous+Agentics+%26+Multi-Model+Inference+Gateways;Universal+Reality+System+(URS+v2.0)+10.0%2F10+Certified" alt="Typing SVG" />
 </p>
 
 ---
@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=elon00&theme=onedark&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Profile Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=elon00&theme=onedark&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Profile Trophies" />
   </a>
 </p>
 
@@ -59,12 +59,12 @@
 ## 📊 Live GitHub Activity & Streak Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elon00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="elon00's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elon00&theme=tokyonight&hide_border=true" alt="elon00's streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elon00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="elon00's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elon00&theme=tokyonight&hide_border=true" height="175" alt="elon00's streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elon00&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elon00&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
 </p>
 
 ---
