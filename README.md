@@ -6,6 +6,8 @@ I use this GitHub profile as an engineering portfolio: active projects are expec
 
 ## Flagship projects
 
+For a maintained-vs-reference project map and production criteria, see [PORTFOLIO_STATUS.md](./PORTFOLIO_STATUS.md).
+
 | Project | Focus | Current public status |
 |---|---|---|
 | [pq-rdl-blockchain](https://github.com/elon00/pq-rdl-blockchain) | Post-quantum Layer-1 blockchain research/prototype, ML-DSA-65, BFT, node tooling | **CI-verified operational devnet prototype**; not represented as public mainnet |
