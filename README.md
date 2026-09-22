@@ -2,7 +2,7 @@
 
 Builder focused on **blockchain infrastructure, post-quantum cryptography, AI systems, and developer tooling**.
 
-I use this GitHub profile as an engineering portfolio: active projects are expected to show their real implementation status, reproducible verification commands, security boundaries, and deployment evidence. CI passing is treated as engineering evidence—not as a substitute for an independent security audit or production certification.
+I use this GitHub profile as an engineering portfolio. The account contains 629 repositories spanning original products, research, hackathons, experiments, tutorials, mirrors, and upstream/reference material. Active projects are expected to show their real implementation status, reproducible verification commands, security boundaries, provenance, and deployment evidence. CI passing is engineering evidence—not a substitute for an independent security audit or production certification.
 
 ## Flagship projects
 
@@ -13,6 +13,7 @@ For a maintained-vs-reference project map and production criteria, see [PORTFOLI
 | [pq-rdl-blockchain](https://github.com/elon00/pq-rdl-blockchain) | Post-quantum Layer-1 blockchain research/prototype, ML-DSA-65, BFT, node tooling | **CI-verified operational devnet prototype**; not represented as public mainnet |
 | [qton](https://github.com/elon00/qton) | TON testnet asset infrastructure, Jetton, PQC gateway research | **TON testnet deployment evidence available**; not represented as mainnet/market-proven |
 | [qmoosa-deep-tech-ai-quantum-platform](https://github.com/elon00/qmoosa-deep-tech-ai-quantum-platform) | AI infrastructure, agentic systems, robotics/physical-AI experiments, PQC research | **Experimental / hackathon-oriented engineering platform**; production claims require independent validation |
+| [qmoosa-nexus-platform](https://github.com/elon00/qmoosa-nexus-platform) | Account-abstraction, policy-guardian and multi-chain agent research | Prototype; production/testnet claims require reproducible external evidence |
 | [solana-ai](https://github.com/elon00/solana-ai) | Solana ecosystem growth and AI/blockchain project work | Early-stage project/research repository |
 
 ## Engineering principles
@@ -35,7 +36,7 @@ For a maintained-vs-reference project map and production criteria, see [PORTFOLI
 
 ## What I am improving across this portfolio
 
-The active repositories are being standardized around:
+The market-facing repositories are being standardized around:
 
 - deterministic build/test commands
 - dependency and vulnerability auditing
@@ -47,6 +48,8 @@ The active repositories are being standardized around:
 - release/deployment evidence
 - contributor documentation
 - explicit separation of original projects from learning/fork/reference repositories
+- provenance disclosures for imported or upstream-derived repositories
+- a smaller, curated flagship surface instead of treating repository count as product count
 
 ## For collaborators and node operators
 
