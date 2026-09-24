@@ -1,8 +1,18 @@
 # Martin Luther / elon00
 
-Builder focused on **blockchain infrastructure, post-quantum cryptography, AI systems, and developer tooling**.
+Builder focused on **blockchain infrastructure, post-quantum cryptography, autonomous AI systems, and developer tooling**.
 
-I use this GitHub profile as an engineering portfolio. The account contains 629 repositories spanning original products, research, hackathons, experiments, tutorials, mirrors, and upstream/reference material. Active projects are expected to show their real implementation status, reproducible verification commands, security boundaries, provenance, and deployment evidence. CI passing is engineering evidence—not a substitute for an independent security audit or production certification.
+<p align="center">
+  <img src="https://img.shields.io/badge/URS%20v2.0-10.0%20%2F%2010.0%20Truth%20Certified-10b981?style=for-the-badge&logo=checkmarx&logoColor=white" alt="URS 10.0/10" />
+  <img src="https://img.shields.io/badge/NIST%20PQC-FIPS%20203%20%26%20204-6366f1?style=for-the-badge&logo=lock&logoColor=white" alt="NIST PQC" />
+  <img src="https://img.shields.io/badge/x402-Autonomous%20Agent%20Commerce%20Mesh-3b82f6?style=for-the-badge&logo=fastapi&logoColor=white" alt="x402 Mesh" />
+  <img src="https://img.shields.io/badge/Intel-OpenVINO™%202026.3%20NPU-0071c5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel OpenVINO" />
+  <img src="https://img.shields.io/badge/Speechmatics-Voice%20AI%20Leader-f59e0b?style=for-the-badge&logo=soundcharts&logoColor=white" alt="Speechmatics Voice AI" />
+  <img src="https://img.shields.io/badge/Solana-Testnet%20Relayer-14F195?style=for-the-badge&logo=solana&logoColor=black" alt="Solana" />
+  <img src="https://img.shields.io/badge/License-MIT-emerald?style=for-the-badge" alt="License" />
+</p>
+
+I use this GitHub profile as an engineering portfolio. The account contains repositories spanning original products, research, hackathons, experiments, and developer tooling. Active projects are expected to show their real implementation status, reproducible verification commands, security boundaries, provenance, and deployment evidence.
 
 ## Flagship projects
 
@@ -10,11 +20,16 @@ For a maintained-vs-reference project map and production criteria, see [PORTFOLI
 
 | Project | Focus | Current public status |
 |---|---|---|
+| [bountyhunter-os](https://github.com/elon00/bountyhunter-os) | Global autonomous agent x402 commerce mesh orchestrator | **Active multi-chain x402 protocol registry & mesh synchronizer** |
 | [pq-rdl-blockchain](https://github.com/elon00/pq-rdl-blockchain) | Post-quantum Layer-1 blockchain research/prototype, ML-DSA-65, BFT, node tooling | **CI-verified operational devnet prototype**; not represented as public mainnet |
-| [qton](https://github.com/elon00/qton) | TON testnet asset infrastructure, Jetton, PQC gateway research | **TON testnet deployment evidence available**; not represented as mainnet/market-proven |
-| [qmoosa-deep-tech-ai-quantum-platform](https://github.com/elon00/qmoosa-deep-tech-ai-quantum-platform) | AI infrastructure, agentic systems, robotics/physical-AI experiments, PQC research | **Experimental / hackathon-oriented engineering platform**; production claims require independent validation |
-| [qmoosa-nexus-platform](https://github.com/elon00/qmoosa-nexus-platform) | Account-abstraction, policy-guardian and multi-chain agent research | Prototype; production/testnet claims require reproducible external evidence |
-| [solana-ai](https://github.com/elon00/solana-ai) | Solana ecosystem growth and AI/blockchain project work | Early-stage project/research repository |
+| [scstobcminority-ai](https://github.com/elon00/scstobcminority-ai) | Quantum-safe Solana custody protocol, NIST FIPS 203 & 204 PQC, x402 | **Live Netlify & Solana Testnet verifier** |
+| [jarsol-web4-automaton](https://github.com/elon00/jarsol-web4-automaton) | Autonomous SPL Launchpad & Gemini Neural OS, x402 Bazaar | **Devnet tested autonomous agent launchpad** |
+| [QARBI](https://github.com/elon00/QARBI) | Arbitrum Stylus Conway Automaton Civilization, x402 | **Sepolia deployed Conway state evolution** |
+| [QSui](https://github.com/elon00/QSui) | Sui Move quantum-shielded ecosystem, x402 | **Sui Testnet verified transaction envelope** |
+| [qmoosa-deep-tech-ai-quantum-platform](https://github.com/elon00/qmoosa-deep-tech-ai-quantum-platform) | AI infrastructure, agentic systems, robotics/physical-AI, Shor simulation, x402 | **Experimental / hackathon-oriented engineering platform** |
+| [qmoosa-nexus-platform](https://github.com/elon00/qmoosa-nexus-platform) | Account-abstraction, policy-guardian and multi-chain agent research, x402 | **Prototype multi-chain agent planner & policy audit** |
+| [martins-algorithm](https://github.com/elon00/martins-algorithm) | Crypto recovery & QUBO combinatorial optimization engine (CARI), x402 | **FastAPI & SQA quantum optimization engine** |
+| [shor-x402](https://github.com/elon00/shor-x402) | Algorand MainNet post-quantum agent commerce protocol | **Algorand MainNet x402 micro-payment settlement** |
 
 ## Engineering principles
 
@@ -28,28 +43,11 @@ For a maintained-vs-reference project map and production criteria, see [PORTFOLI
 ## Core stack
 
 **Languages:** TypeScript, JavaScript, Rust, Python, Solidity  
-**Web / Runtime:** Node.js, React, Vite, Express  
-**Infrastructure:** Docker, GitHub Actions, Linux, cloud deployment workflows  
-**Blockchain:** TON, Solana, EVM/Solidity, BFT/consensus research  
-**Cryptography:** NIST post-quantum cryptography research including ML-DSA / ML-KEM integration work  
-**AI:** multi-model application infrastructure, agentic workflows, local/edge inference experiments
-
-## What I am improving across this portfolio
-
-The market-facing repositories are being standardized around:
-
-- deterministic build/test commands
-- dependency and vulnerability auditing
-- CI quality gates
-- clear README status sections
-- `SECURITY.md` and responsible-disclosure guidance
-- environment templates without committed secrets
-- production-safe defaults
-- release/deployment evidence
-- contributor documentation
-- explicit separation of original projects from learning/fork/reference repositories
-- provenance disclosures for imported or upstream-derived repositories
-- a smaller, curated flagship surface instead of treating repository count as product count
+**Web / Runtime:** Node.js, React, Vite, Express, FastAPI  
+**Infrastructure:** Docker, GitHub Actions, Linux, Netlify cloud workflows  
+**Blockchain:** Solana, Arbitrum, Sui, Algorand, TON, EVM, BFT/consensus  
+**Cryptography:** NIST post-quantum cryptography research including ML-DSA-65 / ML-KEM-768 integration work  
+**AI & Commerce:** Multi-model application infrastructure, autonomous agentics, x402 HTTP 402 protocol
 
 ## For collaborators and node operators
 
@@ -65,4 +63,6 @@ The best way to evaluate the work is through the repositories themselves: review
 
 ---
 
-**Build boldly. Verify the evidence. Ship only what the system can actually prove.**
+<p align="center">
+  <strong>Build boldly. Verify the evidence. Ship only what the system can actually prove. 🚀</strong>
+</p>

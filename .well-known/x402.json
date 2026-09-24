@@ -1,0 +1,34 @@
+{
+  "x402Version": "1.0.0",
+  "version": "1.0.0",
+  "name": "Martin Luther (elon00) — Autonomous Agent Commerce & Web4 Fleet Registry",
+  "type": "creator-identity-registry",
+  "category": "ai-agent-commerce",
+  "tags": [
+    "solana",
+    "creator-registry",
+    "autonomous-agent-mesh",
+    "nist-pqc",
+    "x402"
+  ],
+  "provider": {
+    "name": "Martin Luther / elon00",
+    "website": "https://github.com/elon00",
+    "payTo": "8qhW8ctXX77UNLTY9kx3XoAoH8kstQXPbCghUwqu34es",
+    "network": "solana-testnet",
+    "caip2": "solana:4uhcVJyU9pJkvQyS88uRDiswHXSCkY3z"
+  },
+  "endpoints": [
+    {
+      "path": "/.well-known/x402-bazaar.json",
+      "method": "GET",
+      "description": "Global creator registry and machine-readable mesh discoverability endpoint",
+      "pricing": {
+        "amountSol": 0.0,
+        "lamports": 0,
+        "currency": "SOL",
+        "alternativeUsdc": "0.00"
+      }
+    }
+  ]
+}
