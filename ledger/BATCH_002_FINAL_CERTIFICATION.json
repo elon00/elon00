@@ -1,0 +1,209 @@
+{
+  "certified_at": "2026-11-10T15:23:22.149694+00:00",
+  "batch": "BATCH_002",
+  "governance_model": "Option C: Verification-First Staged Architecture",
+  "total_repositories": 25,
+  "successfully_promoted": 20,
+  "records": [
+    {
+      "repository": "elon00/abdus-salam-ai",
+      "pr_number": 1,
+      "pre_merge_main_sha": "f38177085871d738c4ca3d4feec71cf4722e9ada",
+      "rollback_tag": "pre-option-c-b002-f3817708",
+      "post_merge_main_sha": "19d94321aa19706eb1a8bdb49c1d036413e3c010",
+      "status": "VERIFIED_MERGED"
+    },
+    {
+      "repository": "elon00/accord",
+      "pr_number": 1,
+      "pre_merge_main_sha": "f78cc60ed8468ba08a23f132b4732bd949384ea4",
+      "rollback_tag": "pre-option-c-b002-f78cc60e",
+      "post_merge_main_sha": "ac4ba8562f0562a95e0758c767cfa565e1c0b25a",
+      "status": "VERIFIED_MERGED"
+    },
+    {
+      "repository": "elon00/accrue",
+      "pr_number": 1,
+      "pre_merge_main_sha": "13486e40218a7956a034d27cbbadc45cde466f2a",
+      "rollback_tag": "pre-option-c-b002-13486e40",
+      "post_merge_main_sha": "ca7add6cd99912a56f6e692aa0c29346a644d379",
+      "status": "VERIFIED_MERGED"
+    },
+    {
+      "repository": "elon00/actorx",
+      "pr_number": 1,
+      "pre_merge_main_sha": "6e9ec56216150b7cf40f0fbb77d905bcab071e08",
+      "rollback_tag": "pre-option-c-b002-6e9ec562",
+      "post_merge_main_sha": "6e9ec56216150b7cf40f0fbb77d905bcab071e08",
+      "status": "MERGE_PENDING_CHECKS"
+    },
+    {
+      "repository": "elon00/actorx-gate",
+      "pr_number": 1,
+      "pre_merge_main_sha": "d84f97f1fce0f1b8e1b504646acdba4ca2d9e304",
+      "rollback_tag": "pre-option-c-b002-d84f97f1",
+      "post_merge_main_sha": "d84f97f1fce0f1b8e1b504646acdba4ca2d9e304",
+      "status": "MERGE_PENDING_CHECKS"
+    },
+    {
+      "repository": "elon00/actorx-kit",
+      "pr_number": 1,
+      "pre_merge_main_sha": "1eb89f17babd2899e105c0aa97b2813a8abf8840",
+      "rollback_tag": "pre-option-c-b002-1eb89f17",
+      "post_merge_main_sha": "1eb89f17babd2899e105c0aa97b2813a8abf8840",
+      "status": "MERGE_PENDING_CHECKS"
+    },
+    {
+      "repository": "elon00/actorx-lens",
+      "pr_number": 1,
+      "pre_merge_main_sha": "0aebba403312c12187d1d07c9170d8b79fe4d369",
+      "rollback_tag": "pre-option-c-b002-0aebba40",
+      "post_merge_main_sha": "0aebba403312c12187d1d07c9170d8b79fe4d369",
+      "status": "MERGE_PENDING_CHECKS"
+    },
+    {
+      "repository": "elon00/actorx-run",
+      "pr_number": 1,
+      "pre_merge_main_sha": "23a91acb39ffb266f2945537a7966dee666b31c2",
+      "rollback_tag": "pre-option-c-b002-23a91acb",
+      "post_merge_main_sha": "23a91acb39ffb266f2945537a7966dee666b31c2",
+      "status": "MERGE_PENDING_CHECKS"
+    },
+    {
+      "repository": "elon00/ada-lovelace-ai",
+      "pr_number": 1,
+      "pre_merge_main_sha": "0bb820cd501b05991a884eaa5e5e5899fef90ed7",
+      "rollback_tag": "pre-option-c-b002-0bb820cd",
+      "post_merge_main_sha": "e63173e6707b19293ba5582104dfc6f082198524",
+      "status": "VERIFIED_MERGED"
+    },
+    {
+      "repository": "elon00/adrian-perrig-ai",
+      "pr_number": 1,
+      "pre_merge_main_sha": "8b824998873387429771d81c43e6cc97d3fee6ad",
+      "rollback_tag": "pre-option-c-b002-8b824998",
+      "post_merge_main_sha": "b93e139ee3130fff085da520631013a27bcda79c",
+      "status": "VERIFIED_MERGED"
+    },
+    {
+      "repository": "elon00/aegis",
+      "pr_number": 1,
+      "pre_merge_main_sha": "9c28391142123613181085621015641d4b305cb2",
+      "rollback_tag": "pre-option-c-b002-9c283911",
+      "post_merge_main_sha": "028e12b4b37395f51fc59b36594c0733aa4d0460",
+      "status": "VERIFIED_MERGED"
+    },
+    {
+      "repository": "elon00/aerotrust-ai",
+      "pr_number": 1,
+      "pre_merge_main_sha": "7bae9aaa42add3fd4ecf24ce1277ac95332246e9",
+      "rollback_tag": "pre-option-c-b002-7bae9aaa",
+      "post_merge_main_sha": "5fdd4c0d817075070e4c82561f5acc476a054001",
+      "status": "VERIFIED_MERGED"
+    },
+    {
+      "repository": "elon00/aethel",
+      "pr_number": 1,
+      "pre_merge_main_sha": "fc145c33d17e50d52d413bc90b6a9cc779cffbb6",
+      "rollback_tag": "pre-option-c-b002-fc145c33",
+      "post_merge_main_sha": "227a2de64f78f51ac191c28a67b618d94934d490",
+      "status": "VERIFIED_MERGED"
+    },
+    {
+      "repository": "elon00/aethera",
+      "pr_number": 1,
+      "pre_merge_main_sha": "544d48418077f4180f42e8e7a80326a4a3d61d63",
+      "rollback_tag": "pre-option-c-b002-544d4841",
+      "post_merge_main_sha": "94694530e8c67febc576a86adb1c8ad5cf3aa085",
+      "status": "VERIFIED_MERGED"
+    },
+    {
+      "repository": "elon00/aetherx",
+      "pr_number": 1,
+      "pre_merge_main_sha": "83d0c19b58a3b40d5a7ad37599decd7749971234",
+      "rollback_tag": "pre-option-c-b002-83d0c19b",
+      "post_merge_main_sha": "51b5128494653695958d7fa7de83fe4c684f881e",
+      "status": "VERIFIED_MERGED"
+    },
+    {
+      "repository": "elon00/afghanistan-sovereign-ai",
+      "pr_number": 1,
+      "pre_merge_main_sha": "146f0468a29a4817c2efb64f8b3ca6c63ee2a2d8",
+      "rollback_tag": "pre-option-c-b002-146f0468",
+      "post_merge_main_sha": "1847f5caa0cb8af3f0445cb9bbd5c848edcf4709",
+      "status": "VERIFIED_MERGED"
+    },
+    {
+      "repository": "elon00/agentx",
+      "pr_number": 1,
+      "pre_merge_main_sha": "8688093a0d07539310cd9487a87e5a3464523a88",
+      "rollback_tag": "pre-option-c-b002-8688093a",
+      "post_merge_main_sha": "4d7b60564ee563d8a32241144209959ea821f8d1",
+      "status": "VERIFIED_MERGED"
+    },
+    {
+      "repository": "elon00/agile",
+      "pr_number": 1,
+      "pre_merge_main_sha": "142cb8a803eb3ab87e3a541734d004d9b2c86c0d",
+      "rollback_tag": "pre-option-c-b002-142cb8a8",
+      "post_merge_main_sha": "39a38a903dbaf5e93fc22e69f73e385b9ad58a4b",
+      "status": "VERIFIED_MERGED"
+    },
+    {
+      "repository": "elon00/agora",
+      "pr_number": 1,
+      "pre_merge_main_sha": "e7149f436164a3fb8a29aba53d996d841c96ec06",
+      "rollback_tag": "pre-option-c-b002-e7149f43",
+      "post_merge_main_sha": "5bc356af64994347d27f35bdf61914f3bb5165f7",
+      "status": "VERIFIED_MERGED"
+    },
+    {
+      "repository": "elon00/agora-gate",
+      "pr_number": 1,
+      "pre_merge_main_sha": "d99d69068ee7b3fc548416972d098340b657184d",
+      "rollback_tag": "pre-option-c-b002-d99d6906",
+      "post_merge_main_sha": "0727834a145b98ee7475b9a0753b7375e8ee641a",
+      "status": "VERIFIED_MERGED"
+    },
+    {
+      "repository": "elon00/agora-kit",
+      "pr_number": 1,
+      "pre_merge_main_sha": "083ad413dd62b1a205ca7eb940f47386259f2437",
+      "rollback_tag": "pre-option-c-b002-083ad413",
+      "post_merge_main_sha": "3bf017e1cac70f6a28c78d77a8b6e0a176a688b4",
+      "status": "VERIFIED_MERGED"
+    },
+    {
+      "repository": "elon00/agora-lens",
+      "pr_number": 1,
+      "pre_merge_main_sha": "bf497b24fe712ddbe891b2e128a438803c429301",
+      "rollback_tag": "pre-option-c-b002-bf497b24",
+      "post_merge_main_sha": "205323c59ca4976d915bbfacca506a28da5aa163",
+      "status": "VERIFIED_MERGED"
+    },
+    {
+      "repository": "elon00/agora-run",
+      "pr_number": 1,
+      "pre_merge_main_sha": "d6084947bb92844e77ac0577eb75652fcbf0a87b",
+      "rollback_tag": "pre-option-c-b002-d6084947",
+      "post_merge_main_sha": "5bd437b145253ef26c0e2aadb27da484b0668391",
+      "status": "VERIFIED_MERGED"
+    },
+    {
+      "repository": "elon00/agrochain-ai",
+      "pr_number": 1,
+      "pre_merge_main_sha": "ed4b4ee47d2eca03f7e333bf10dc8cbfef4461b4",
+      "rollback_tag": "pre-option-c-b002-ed4b4ee4",
+      "post_merge_main_sha": "27c131bd15cdbe85ed31044d92fa4c064e0a2dc7",
+      "status": "VERIFIED_MERGED"
+    },
+    {
+      "repository": "elon00/agroprocess-ai",
+      "pr_number": 1,
+      "pre_merge_main_sha": "05a5195dd8cd82c3ed6727437d7fc7b1d45d6b50",
+      "rollback_tag": "pre-option-c-b002-05a5195d",
+      "post_merge_main_sha": "a48f366a1486a726ff8f032a7c87c09b3f59e607",
+      "status": "VERIFIED_MERGED"
+    }
+  ]
+}
