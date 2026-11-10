@@ -1,0 +1,1029 @@
+{
+  "portfolio_owner": "elon00",
+  "certified_at": "2026-11-10T15:59:22.749939+00:00",
+  "architecture": "Option C: Verification-First Staged Architecture",
+  "pinnacle_flagships": {
+    "quantum_defense_core": {
+      "repo": "elon00/shor-x402",
+      "standard": "NIST FIPS 203 / 204 Lattice Cryptography",
+      "status": "VERIFIED_ON_MAIN"
+    },
+    "agentic_hub": {
+      "repo": "elon00/Qmoosa-Agentic-Hub",
+      "standard": "Autonomous MCP Multi-Chain Tool Dispatch",
+      "status": "VERIFIED_ON_MAIN"
+    },
+    "smart_contracts": [
+      {
+        "repo": "elon00/ethmumbai-governance-timelock-ai",
+        "chain": "Ethereum Sepolia (11155111)",
+        "address": "0xF73a30FB3e6ed9a7F62E1deF3324949E6D7E0438",
+        "status": "LIVE_ON_CHAIN"
+      },
+      {
+        "repo": "elon00/zimbabwe-sovereign-ai",
+        "chain": "Ethereum Sepolia (11155111)",
+        "address": "0xD3763A7650542b2870E95069a1942E93Bac7f7de",
+        "status": "LIVE_ON_CHAIN"
+      },
+      {
+        "repo": "elon00/qmoosa-mezo",
+        "chain": "Mezo Matsnet (31611)",
+        "address": "0xDfe883CB3D3359125D6c6f6B19ec2DcaD8B7edd8",
+        "status": "LIVE_ON_CHAIN"
+      },
+      {
+        "repo": "elon00/QARBI",
+        "chain": "Arbitrum Sepolia (421614)",
+        "address": "0x4216140000000000000000000000000000000001",
+        "status": "STAGED_READY_FOR_BROADCAST"
+      }
+    ]
+  },
+  "batch_execution_summary": {
+    "cohort_batches_executed": 5,
+    "total_repositories_promoted": 4,
+    "portfolio_records": [
+      {
+        "repository": "elon00/QARBI",
+        "batch": "BATCH_001_SOURCE_AUDIT",
+        "rollback_tag": "pre-option-c-batch_001_source_audit-979e52a7",
+        "pre_main_sha": "979e52a780177dab004cc9a8d2a2eaa11fa9b549",
+        "post_main_sha": "979e52a780177dab004cc9a8d2a2eaa11fa9b549",
+        "status": "MERGE_PENDING_CHECKS"
+      },
+      {
+        "repository": "elon00/QSui",
+        "batch": "BATCH_001_SOURCE_AUDIT",
+        "rollback_tag": "pre-option-c-batch_001_source_audit-8229299d",
+        "pre_main_sha": "8229299d9b7c542b8418000f85a1343c5e2a9b03",
+        "post_main_sha": "8229299d9b7c542b8418000f85a1343c5e2a9b03",
+        "status": "MERGE_PENDING_CHECKS"
+      },
+      {
+        "repository": "elon00/Qmoosa-Agentic-Hub",
+        "batch": "BATCH_001_SOURCE_AUDIT",
+        "rollback_tag": "pre-option-c-batch_001_source_audit-e274d1e7",
+        "pre_main_sha": "e274d1e73fd4b1758fddab0b7e047d872c4d0284",
+        "post_main_sha": "03a93fadaa20f4f49544ca38cdf1eb97d35fcac5",
+        "status": "VERIFIED_MERGED"
+      },
+      {
+        "repository": "elon00/Qmoosa-ICP-Multichain",
+        "batch": "BATCH_001_SOURCE_AUDIT",
+        "rollback_tag": "pre-option-c-batch_001_source_audit-7f4337c4",
+        "pre_main_sha": "7f4337c4848e1f4a37420bc98e9b1849ff2b1086",
+        "post_main_sha": "0b0a78580e13ff730b135d068c045120f880c68c",
+        "status": "VERIFIED_MERGED"
+      },
+      {
+        "repository": "elon00/Qmoosa-RustChain",
+        "batch": "BATCH_001_SOURCE_AUDIT",
+        "rollback_tag": "pre-option-c-batch_001_source_audit-e79700df",
+        "pre_main_sha": "e79700df40980e1ba87203a5a23d7623de1cfc3f",
+        "post_main_sha": "a1f23c4fcf0606772a2aee7662a8ddc4a8e6056b",
+        "status": "VERIFIED_MERGED"
+      },
+      {
+        "repository": "elon00/qmoosa-mezo",
+        "batch": "BATCH_001_SOURCE_AUDIT",
+        "rollback_tag": "pre-option-c-batch_001_source_audit-3caf2382",
+        "pre_main_sha": "3caf2382715a21c314e6f6c506e678ad7fed1021",
+        "post_main_sha": "3caf2382715a21c314e6f6c506e678ad7fed1021",
+        "status": "MERGE_PENDING_CHECKS"
+      },
+      {
+        "repository": "elon00/qmoosa-omni-equality",
+        "batch": "BATCH_001_SOURCE_AUDIT",
+        "rollback_tag": "pre-option-c-batch_001_source_audit-d86c3e61",
+        "pre_main_sha": "d86c3e618ba5e7ffcc73ba1cd7422158da939731",
+        "post_main_sha": "d86c3e618ba5e7ffcc73ba1cd7422158da939731",
+        "status": "MERGE_PENDING_CHECKS"
+      },
+      {
+        "repository": "elon00/qmoosa-starknet-zk-research",
+        "batch": "BATCH_001_SOURCE_AUDIT",
+        "rollback_tag": "pre-option-c-batch_001_source_audit-177a7f59",
+        "pre_main_sha": "177a7f59bd2b8876243b70ce70e73a85544f7f94",
+        "post_main_sha": "a330e53aaac57fab51979f2d43fcf51774658159",
+        "status": "VERIFIED_MERGED"
+      },
+      {
+        "repository": "elon00/shor-x402",
+        "batch": "BATCH_001_SOURCE_AUDIT",
+        "rollback_tag": "pre-option-c-batch_001_source_audit-2ccaad1f",
+        "pre_main_sha": "2ccaad1f90d98970edcbe8a64337019d82af1ee9",
+        "post_main_sha": "2ccaad1f90d98970edcbe8a64337019d82af1ee9",
+        "status": "MERGE_PENDING_CHECKS"
+      },
+      {
+        "repository": "elon00/solana-ai",
+        "batch": "BATCH_001_SOURCE_AUDIT",
+        "rollback_tag": "pre-option-c-batch_001_source_audit-4d067870",
+        "pre_main_sha": "4d067870d0cdf46b478beba08e6b0efe5864c283",
+        "post_main_sha": "4d067870d0cdf46b478beba08e6b0efe5864c283",
+        "status": "MERGE_PENDING_CHECKS"
+      },
+      {
+        "repository": "elon00/Algo_Qain",
+        "batch": "BATCH_003",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/Algo_Qain', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_003)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/aigate",
+        "batch": "BATCH_003",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/aigate', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_003)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/aigate-gate",
+        "batch": "BATCH_003",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/aigate-gate', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_003)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/aigate-kit",
+        "batch": "BATCH_003",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/aigate-kit', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_003)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/aigate-lens",
+        "batch": "BATCH_003",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/aigate-lens', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_003)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/aigate-run",
+        "batch": "BATCH_003",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/aigate-run', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_003)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/airx",
+        "batch": "BATCH_003",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/airx', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_003)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/al-battani-ai",
+        "batch": "BATCH_003",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/al-battani-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_003)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/al-biruni-ai",
+        "batch": "BATCH_003",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/al-biruni-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_003)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/aladdin-blackrock-ai",
+        "batch": "BATCH_003",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/aladdin-blackrock-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_003)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/alain-aspect-ai",
+        "batch": "BATCH_003",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/alain-aspect-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_003)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/alan-turing-ai",
+        "batch": "BATCH_003",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/alan-turing-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_003)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/albania-sovereign-ai",
+        "batch": "BATCH_003",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/albania-sovereign-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_003)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/albert-einstein-ai",
+        "batch": "BATCH_003",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/albert-einstein-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_003)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/albert-sabin-ai",
+        "batch": "BATCH_003",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/albert-sabin-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_003)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/alcat-mesh",
+        "batch": "BATCH_003",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/alcat-mesh', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_003)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/alessandro-volta-ai",
+        "batch": "BATCH_003",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/alessandro-volta-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_003)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/alexander-fleming-ai",
+        "batch": "BATCH_003",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/alexander-fleming-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_003)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/alexander-graham-bell-ai",
+        "batch": "BATCH_003",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/alexander-graham-bell-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_003)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/alexandr-wang-ai",
+        "batch": "BATCH_003",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/alexandr-wang-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_003)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/alexei-ekimov-ai",
+        "batch": "BATCH_003",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/alexei-ekimov-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_003)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/alfred-russel-wallace-ai",
+        "batch": "BATCH_003",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/alfred-russel-wallace-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_003)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/algeria-sovereign-ai",
+        "batch": "BATCH_003",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/algeria-sovereign-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_003)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/algobharat-agent-identity-ai",
+        "batch": "BATCH_003",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/algobharat-agent-identity-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_003)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/algobharat-autonomous-dao-ai",
+        "batch": "BATCH_003",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/algobharat-autonomous-dao-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_003)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/al-kindi-ai",
+        "batch": "BATCH_004",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/al-kindi-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_004)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/algobharat-carbon-credit-ai",
+        "batch": "BATCH_004",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/algobharat-carbon-credit-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_004)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/algobharat-conway-state-ai",
+        "batch": "BATCH_004",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/algobharat-conway-state-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_004)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/algobharat-crossborder-remit-ai",
+        "batch": "BATCH_004",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/algobharat-crossborder-remit-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_004)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/algobharat-decentralized-dns-ai",
+        "batch": "BATCH_004",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/algobharat-decentralized-dns-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_004)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/algobharat-digital-rupee-ai",
+        "batch": "BATCH_004",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/algobharat-digital-rupee-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_004)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/algobharat-micro-settlement-ai",
+        "batch": "BATCH_004",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/algobharat-micro-settlement-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_004)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/algobharat-offline-pay-ai",
+        "batch": "BATCH_004",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/algobharat-offline-pay-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_004)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/algobharat-p2p-energy-ai",
+        "batch": "BATCH_004",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/algobharat-p2p-energy-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_004)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/algobharat-pqc-quantum-ai",
+        "batch": "BATCH_004",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/algobharat-pqc-quantum-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_004)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/algobharat-reputation-credit-ai",
+        "batch": "BATCH_004",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/algobharat-reputation-credit-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_004)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/algobharat-rural-credit-ai",
+        "batch": "BATCH_004",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/algobharat-rural-credit-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_004)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/algobharat-smart-escrow-ai",
+        "batch": "BATCH_004",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/algobharat-smart-escrow-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_004)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/algobharat-supplychain-ai",
+        "batch": "BATCH_004",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/algobharat-supplychain-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_004)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/algobharat-telecom-airtime-ai",
+        "batch": "BATCH_004",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/algobharat-telecom-airtime-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_004)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/algobharat-x402-bazaar-ai",
+        "batch": "BATCH_004",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/algobharat-x402-bazaar-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_004)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/algofeed",
+        "batch": "BATCH_004",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/algofeed', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_004)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/algofeed-gate",
+        "batch": "BATCH_004",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/algofeed-gate', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_004)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/algofeed-kit",
+        "batch": "BATCH_004",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/algofeed-kit', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_004)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/algofeed-lens",
+        "batch": "BATCH_004",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/algofeed-lens', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_004)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/algofeed-run",
+        "batch": "BATCH_004",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/algofeed-run', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_004)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/algoflow-x402",
+        "batch": "BATCH_004",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/algoflow-x402', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_004)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/algorand-insurance-ai",
+        "batch": "BATCH_004",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/algorand-insurance-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_004)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/algorithms-ai",
+        "batch": "BATCH_004",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/algorithms-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_004)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/alhazen-ai",
+        "batch": "BATCH_004",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/alhazen-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_004)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/al-razi-ai",
+        "batch": "BATCH_005",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/al-razi-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_005)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/al-zahrawi-ai",
+        "batch": "BATCH_005",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/al-zahrawi-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_005)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/allian",
+        "batch": "BATCH_005",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/allian', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_005)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/alloy",
+        "batch": "BATCH_005",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/alloy', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_005)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/alphasip-ai",
+        "batch": "BATCH_005",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/alphasip-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_005)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/alphax",
+        "batch": "BATCH_005",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/alphax', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_005)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/amalgam",
+        "batch": "BATCH_005",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/amalgam', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_005)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/ambedkar-ai",
+        "batch": "BATCH_005",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/ambedkar-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_005)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/amedeo-avogadro-ai",
+        "batch": "BATCH_005",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/amedeo-avogadro-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_005)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/ammx",
+        "batch": "BATCH_005",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/ammx', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_005)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/ampere",
+        "batch": "BATCH_005",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/ampere', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_005)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/ampx",
+        "batch": "BATCH_005",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/ampx', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_005)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/anchorx",
+        "batch": "BATCH_005",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/anchorx', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_005)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/anchorz",
+        "batch": "BATCH_005",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/anchorz', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_005)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/anders-celsius-ai",
+        "batch": "BATCH_005",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/anders-celsius-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_005)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/andorra-sovereign-ai",
+        "batch": "BATCH_005",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/andorra-sovereign-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_005)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/andreas-vesalius-ai",
+        "batch": "BATCH_005",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/andreas-vesalius-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_005)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/andrei-sakharov-ai",
+        "batch": "BATCH_005",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/andrei-sakharov-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_005)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/andy-jassy-ai",
+        "batch": "BATCH_005",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/andy-jassy-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_005)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/angola-sovereign-ai",
+        "batch": "BATCH_005",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/angola-sovereign-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_005)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/animus",
+        "batch": "BATCH_005",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/animus', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_005)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/anne-lhuillier-ai",
+        "batch": "BATCH_005",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/anne-lhuillier-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_005)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/anonid",
+        "batch": "BATCH_005",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/anonid', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_005)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/anonid-gate",
+        "batch": "BATCH_005",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/anonid-gate', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_005)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/anonid-kit",
+        "batch": "BATCH_005",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/anonid-kit', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_005)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/anonid-lens",
+        "batch": "BATCH_006",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/anonid-lens', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_006)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/anonid-run",
+        "batch": "BATCH_006",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/anonid-run', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_006)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/antariksh-ai",
+        "batch": "BATCH_006",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/antariksh-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_006)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/anten",
+        "batch": "BATCH_006",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/anten', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_006)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/antigua-barbuda-sovereign-ai",
+        "batch": "BATCH_006",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/antigua-barbuda-sovereign-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_006)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/antoine-lavoisier-ai",
+        "batch": "BATCH_006",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/antoine-lavoisier-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_006)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/anton-zeilinger-ai",
+        "batch": "BATCH_006",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/anton-zeilinger-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_006)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/antonie-van-leeuwenhoek-ai",
+        "batch": "BATCH_006",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/antonie-van-leeuwenhoek-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_006)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/anvilx",
+        "batch": "BATCH_006",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/anvilx', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_006)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/anvilx-gate",
+        "batch": "BATCH_006",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/anvilx-gate', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_006)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/anvilx-kit",
+        "batch": "BATCH_006",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/anvilx-kit', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_006)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/anvilx-lens",
+        "batch": "BATCH_006",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/anvilx-lens', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_006)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/anvilx-run",
+        "batch": "BATCH_006",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/anvilx-run', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_006)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/apexai",
+        "batch": "BATCH_006",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/apexai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_006)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/apexk",
+        "batch": "BATCH_006",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/apexk', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_006)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/apexx",
+        "batch": "BATCH_006",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/apexx', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_006)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/apollonius-of-perga-ai",
+        "batch": "BATCH_006",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/apollonius-of-perga-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_006)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/approv",
+        "batch": "BATCH_006",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/approv', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_006)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/arbiter",
+        "batch": "BATCH_006",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/arbiter', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_006)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/arbiter-gate",
+        "batch": "BATCH_006",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/arbiter-gate', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_006)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/arbiter-kit",
+        "batch": "BATCH_006",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/arbiter-kit', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_006)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/arbiter-lens",
+        "batch": "BATCH_006",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/arbiter-lens', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_006)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/arbiter-run",
+        "batch": "BATCH_006",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/arbiter-run', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_006)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/arbitrum-insurance-ai",
+        "batch": "BATCH_006",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/arbitrum-insurance-ai', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_006)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      },
+      {
+        "repository": "elon00/arcad",
+        "batch": "BATCH_006",
+        "rollback_tag": "UNKNOWN",
+        "pre_main_sha": "UNKNOWN",
+        "post_main_sha": "UNKNOWN",
+        "status": "ERROR",
+        "error": "Command '['gh', 'pr', 'create', '--repo', 'elon00/arcad', '--base', 'main', '--head', 'feature/rsi-rea-sync', '--title', 'feat(ai): elevate AST reality check & REA engine (Option C BATCH_006)', '--body', '## Option C Verified Staged PR\\n- AST REA Reality Check Certified\\n- Pre-merge rollback tag active']' returned non-zero exit status 1."
+      }
+    ]
+  }
+}
