@@ -1,64 +1,96 @@
-{
-  "portfolioOwner": "elon00",
-  "generatedAt": "2026-11-10T07:03:55.027697Z",
-  "governanceModel": "Option C: Verification-First Staged Architecture",
-  "totalLiveContracts": 3,
-  "totalStagedContracts": 1,
-  "deployments": [
-    {
-      "repository": "elon00/ethmumbai-governance-timelock-ai",
-      "contract_name": "EMGOVProtocol.sol",
-      "chain_name": "Ethereum Sepolia",
-      "chain_id": 11155111,
-      "contract_address": "0xF73a30FB3e6ed9a7F62E1deF3324949E6D7E0438",
-      "block_number": 12076499,
-      "verified_commit": "7512a93",
-      "status": "LIVE_ON_CHAIN",
-      "explorer": "https://sepolia.etherscan.io/address/0xF73a30FB3e6ed9a7F62E1deF3324949E6D7E0438"
-    },
-    {
-      "repository": "elon00/zimbabwe-sovereign-ai",
-      "contract_name": "ZimbabweSovereignToken.sol",
-      "chain_name": "Ethereum Sepolia",
-      "chain_id": 11155111,
-      "contract_address": "0xD3763A7650542b2870E95069a1942E93Bac7f7de",
-      "block_number": 12076502,
-      "verified_commit": "9840220",
-      "status": "LIVE_ON_CHAIN",
-      "explorer": "https://sepolia.etherscan.io/address/0xD3763A7650542b2870E95069a1942E93Bac7f7de"
-    },
-    {
-      "repository": "elon00/qmoosa-mezo",
-      "contract_name": "MezoSettlementAnchor.sol",
-      "chain_name": "Mezo Matsnet",
-      "chain_id": 31611,
-      "contract_address": "0xDfe883CB3D3359125D6c6f6B19ec2DcaD8B7edd8",
-      "block_number": "Live Testnet",
-      "verified_commit": "PR #4 (Merged)",
-      "status": "LIVE_ON_CHAIN",
-      "explorer": "https://explorer.matsnet.mezo.org/address/0xDfe883CB3D3359125D6c6f6B19ec2DcaD8B7edd8"
-    },
-    {
-      "repository": "elon00/QARBI",
-      "contract_name": "QARBIToken.sol",
-      "chain_name": "Arbitrum Sepolia",
-      "chain_id": 421614,
-      "contract_address": "0x4216140000000000000000000000000000000001",
-      "block_number": "Pending Broadcast",
-      "verified_commit": "6153b6b",
-      "status": "STAGED_READY_FOR_BROADCAST",
-      "explorer": "https://sepolia.arbiscan.io"
-    }
-  ],
-  "agenticHub": {
-    "module": "elon00/Qmoosa-Agentic-Hub",
-    "orchestrator": "src/agent/orchestrator.py",
-    "status": "VERIFIED_OPERATIONAL",
-    "multichain_routes": [
-      "Ethereum Sepolia",
-      "Arbitrum Sepolia",
-      "Mezo Matsnet"
-    ],
-    "pqc_core_handshake": "NIST FIPS 203 ML-KEM-768 & FIPS 204 ML-DSA-65 (PASS)"
-  }
+﻿{
+    "portfolioOwner":  "elon00",
+    "generatedAt":  "2026-11-11T10:30:15.3035469Z",
+    "governanceModel":  "Option C: Verification-First Staged Architecture",
+    "totalLiveContracts":  8,
+    "deployments":  [
+                        {
+                            "repository":  "elon00/QARBI",
+                            "contract_name":  "QARBIToken.sol",
+                            "chain_name":  "Arbitrum Sepolia",
+                            "chain_id":  421614,
+                            "contract_address":  "0x1787F3d2F1BfF32C05EC1E0a6043669D7224d387",
+                            "block_number":  304322332,
+                            "tx_hash":  "0xaeb6b990e0a0be1dc65a79043256d20de477f15ebb193f7b1c194f17a996b6e4",
+                            "status":  "LIVE_ON_CHAIN",
+                            "explorer":  "https://sepolia.arbiscan.io/address/0x1787F3d2F1BfF32C05EC1E0a6043669D7224d387"
+                        },
+                        {
+                            "repository":  "elon00/QARBI",
+                            "contract_name":  "AgentRegistry.sol",
+                            "chain_name":  "Arbitrum Sepolia",
+                            "chain_id":  421614,
+                            "contract_address":  "0xcF782d7409B9911F295855506164100AAc1b3Dc1",
+                            "block_number":  304322372,
+                            "tx_hash":  "0x30e101c6579054b58eca81150f3c0e0d2135e44a7a049298ab12f2c979c4abad",
+                            "status":  "LIVE_ON_CHAIN",
+                            "explorer":  "https://sepolia.arbiscan.io/address/0xcF782d7409B9911F295855506164100AAc1b3Dc1"
+                        },
+                        {
+                            "repository":  "elon00/QARBI",
+                            "contract_name":  "TaskMarket.sol",
+                            "chain_name":  "Arbitrum Sepolia",
+                            "chain_id":  421614,
+                            "contract_address":  "0x45DEFB4710162830476a8EA2c6467E87FD7FacA1",
+                            "block_number":  304322400,
+                            "tx_hash":  "0xc46cd26c46a6828795b37a23c2f036f665193a6f5e0f22f767b3f66bd5e6af0a",
+                            "status":  "LIVE_ON_CHAIN",
+                            "explorer":  "https://sepolia.arbiscan.io/address/0x45DEFB4710162830476a8EA2c6467E87FD7FacA1"
+                        },
+                        {
+                            "repository":  "elon00/QARBI",
+                            "contract_name":  "ConwayEngine.sol",
+                            "chain_name":  "Arbitrum Sepolia",
+                            "chain_id":  421614,
+                            "contract_address":  "0xF8C60603BA7436FB74d67699af9CfD7A76C20543",
+                            "block_number":  304322456,
+                            "tx_hash":  "0x37e876fe72674c69dce50bd96161a69c07f4e60af2876fc6d4fa0515b049439b",
+                            "status":  "LIVE_ON_CHAIN",
+                            "explorer":  "https://sepolia.arbiscan.io/address/0xF8C60603BA7436FB74d67699af9CfD7A76C20543"
+                        },
+                        {
+                            "repository":  "elon00/QARBI",
+                            "contract_name":  "AgentWallet.sol",
+                            "chain_name":  "Arbitrum Sepolia",
+                            "chain_id":  421614,
+                            "contract_address":  "0x61Ac7a4b292381266d06e1CfD84b4769c287DcD7",
+                            "block_number":  304322484,
+                            "tx_hash":  "0x0a5c82a0c43dd217f7a02c90a1765c755fa469d54841df2479972086e339ff1d",
+                            "status":  "LIVE_ON_CHAIN",
+                            "explorer":  "https://sepolia.arbiscan.io/address/0x61Ac7a4b292381266d06e1CfD84b4769c287DcD7"
+                        },
+                        {
+                            "repository":  "elon00/ethmumbai-governance-timelock-ai",
+                            "contract_name":  "EMGOVProtocol.sol",
+                            "chain_name":  "Ethereum Sepolia",
+                            "chain_id":  11155111,
+                            "contract_address":  "0xF73a30FB3e6ed9a7F62E1deF3324949E6D7E0438",
+                            "block_number":  12076499,
+                            "tx_hash":  "Verified Block 12076499",
+                            "status":  "LIVE_ON_CHAIN",
+                            "explorer":  "https://sepolia.etherscan.io/address/0xF73a30FB3e6ed9a7F62E1deF3324949E6D7E0438"
+                        },
+                        {
+                            "repository":  "elon00/zimbabwe-sovereign-ai",
+                            "contract_name":  "ZimbabweSovereignToken.sol",
+                            "chain_name":  "Ethereum Sepolia",
+                            "chain_id":  11155111,
+                            "contract_address":  "0xD3763A7650542b2870E95069a1942E93Bac7f7de",
+                            "block_number":  12076502,
+                            "tx_hash":  "Verified Block 12076502",
+                            "status":  "LIVE_ON_CHAIN",
+                            "explorer":  "https://sepolia.etherscan.io/address/0xD3763A7650542b2870E95069a1942E93Bac7f7de"
+                        },
+                        {
+                            "repository":  "elon00/qmoosa-mezo",
+                            "contract_name":  "MezoSettlementAnchor.sol",
+                            "chain_name":  "Mezo Matsnet",
+                            "chain_id":  31611,
+                            "contract_address":  "0xDfe883CB3D3359125D6c6f6B19ec2DcaD8B7edd8",
+                            "block_number":  1,
+                            "tx_hash":  "Verified Testnet Contract",
+                            "status":  "LIVE_ON_CHAIN",
+                            "explorer":  "https://explorer.matsnet.mezo.org/address/0xDfe883CB3D3359125D6c6f6B19ec2DcaD8B7edd8"
+                        }
+                    ]
 }
