@@ -26,3 +26,6 @@
 - **Reconciled Repositories**: 2,146 Merged to Main | 522 Synchronized Clean
 - **Pending Checks**: 133 Repositories under automated branch protection gate review
 - **Audit Ledger**: [`ledger/GLOBAL_PORTFOLIO_FULL_COMPLETION_LEDGER.json`](ledger/GLOBAL_PORTFOLIO_FULL_COMPLETION_LEDGER.json)
+| **`elon00/QSui`** | Original | Move Smart Contract | Verified | CI & Offline Tests | Standalone Harness Verified |
+| **`elon00/qmoosa-nexus-platform`** | Original | Agent Mesh Platform | Verified | CI & Offline Tests | Standalone Harness Verified |
+| **`elon00/scstobcminority-ai`** | Original | Algorithmic Equity Model | Verified | CI & Offline Tests | Standalone Harness Verified |
