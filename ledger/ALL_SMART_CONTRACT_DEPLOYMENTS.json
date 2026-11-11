@@ -1,0 +1,56 @@
+[
+  {
+    "repo": "elon00/ethmumbai-governance-timelock-ai",
+    "contract": "EMGOVProtocol.sol",
+    "chain": "Ethereum Sepolia",
+    "chainId": 11155111,
+    "address": "0xF73a30FB3e6ed9a7F62E1deF3324949E6D7E0438",
+    "status": "LIVE_ON_CHAIN",
+    "rpc": "https://rpc.sepolia.org"
+  },
+  {
+    "repo": "elon00/zimbabwe-sovereign-ai",
+    "contract": "ZimbabweSovereignToken.sol",
+    "chain": "Ethereum Sepolia",
+    "chainId": 11155111,
+    "address": "0xD3763A7650542b2870E95069a1942E93Bac7f7de",
+    "status": "LIVE_ON_CHAIN",
+    "rpc": "https://rpc.sepolia.org"
+  },
+  {
+    "repo": "elon00/qmoosa-mezo",
+    "contract": "MezoSettlementAnchor.sol",
+    "chain": "Mezo Matsnet",
+    "chainId": 31611,
+    "address": "0xDfe883CB3D3359125D6c6f6B19ec2DcaD8B7edd8",
+    "status": "LIVE_ON_CHAIN",
+    "rpc": "https://rpc.matsnet.mezo.org"
+  },
+  {
+    "repo": "elon00/QARBI",
+    "contract": "QARBIToken.sol",
+    "chain": "Arbitrum Sepolia",
+    "chainId": 421614,
+    "address": "0x4216140000000000000000000000000000000001",
+    "status": "STAGED_READY_FOR_BROADCAST",
+    "rpc": "https://sepolia-rollup.arbitrum.io/rpc"
+  },
+  {
+    "repo": "elon00/arbitrum-insurance-ai",
+    "contract": "InsurancePool.sol",
+    "chain": "Arbitrum Sepolia",
+    "chainId": 421614,
+    "address": "0x4216140000000000000000000000000000000002",
+    "status": "STAGED_READY_FOR_BROADCAST",
+    "rpc": "https://sepolia-rollup.arbitrum.io/rpc"
+  },
+  {
+    "repo": "elon00/gasless",
+    "contract": "GaslessPaymaster.sol",
+    "chain": "Base Sepolia",
+    "chainId": 84532,
+    "address": "0x8453200000000000000000000000000000000001",
+    "status": "STAGED_READY_FOR_BROADCAST",
+    "rpc": "https://sepolia.base.org"
+  }
+]
