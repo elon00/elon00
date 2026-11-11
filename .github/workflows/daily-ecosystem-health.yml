@@ -1,0 +1,35 @@
+name: Ecosystem 24-Hour Health Monitor
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  health-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Execute Live Ecosystem Health Check
+        run: |
+          python -c '
+          import urllib.request, json
+          endpoints = [
+              {"name": "Ethereum Sepolia", "rpc": "https://rpc.sepolia.org"},
+              {"name": "Arbitrum Sepolia", "rpc": "https://sepolia-rollup.arbitrum.io/rpc"},
+              {"name": "Mezo Matsnet", "rpc": "https://rpc.matsnet.mezo.org"}
+          ]
+          for ep in endpoints:
+              req = urllib.request.Request(ep["rpc"], data=json.dumps({"jsonrpc":"2.0","method":"eth_blockNumber","params":[],"id":1}).encode(), headers={"Content-Type": "application/json"})
+              with urllib.request.urlopen(req, timeout=10) as res:
+                  data = json.loads(res.read())
+                  print(f"[+] {ep["name"]}: HEALTHY (Block: {int(data["result"], 16)})")
+          print("ALL MULTI-CHAIN ENDPOINTS HEALTHY")
+          '

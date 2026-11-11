@@ -14,8 +14,9 @@
 | **`elon00/qmoosa-mezo`** | Original | Contract / Anchor | Testnet (Mezo 31611) | Bridge transaction verification |
 | **`elon00/QARBI`** | Original | Contract / Token | Staged Manifest | Arbitrum Sepolia broadcast |
 | **`elon00/pq-rdl-blockchain`** | Original | Infrastructure | CI & Devnet Smoke | 3-node cluster benchmark |
-| **`elon00/Republic-of-Divine-Light`** | Original | Governance Layer | Prototype | Identity schema harmonization |
+| **`elon00/Republic-of-Divine-Light`** | Original | Governance / Identity | CI & Offline Quorum | Companion to `pq-rdl-blockchain` (Verified) |
 | **`elon00/luther-algorithm`** | Original | Research | Local Proofs | Algorithmic benchmark harness |
+| **`elon00/bountyhunter-os`** | Original | Security Agent | CI & Scan Simulation | Standalone Scanner Verified |
 | **`elon00/martins-algorithm`** | Original | Research | Local Proofs | Formal mathematical specification |
 
 ---
