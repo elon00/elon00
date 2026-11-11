@@ -2,7 +2,7 @@ name: Ecosystem 24-Hour Health Monitor
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -17,19 +17,5 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Execute Live Ecosystem Health Check
-        run: |
-          python -c '
-          import urllib.request, json
-          endpoints = [
-              {"name": "Ethereum Sepolia", "rpc": "https://rpc.sepolia.org"},
-              {"name": "Arbitrum Sepolia", "rpc": "https://sepolia-rollup.arbitrum.io/rpc"},
-              {"name": "Mezo Matsnet", "rpc": "https://rpc.matsnet.mezo.org"}
-          ]
-          for ep in endpoints:
-              req = urllib.request.Request(ep["rpc"], data=json.dumps({"jsonrpc":"2.0","method":"eth_blockNumber","params":[],"id":1}).encode(), headers={"Content-Type": "application/json"})
-              with urllib.request.urlopen(req, timeout=10) as res:
-                  data = json.loads(res.read())
-                  print(f"[+] {ep["name"]}: HEALTHY (Block: {int(data["result"], 16)})")
-          print("ALL MULTI-CHAIN ENDPOINTS HEALTHY")
-          '
+      - name: Execute Live Multi-Chain Health Monitor
+        run: python scripts/ecosystem_health_monitor.py
