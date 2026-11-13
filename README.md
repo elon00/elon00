@@ -2,7 +2,7 @@
 
 **AI Agents · Blockchain Infrastructure · Post-Quantum Security · Web4**
 
-[Explore repositories](https://github.com/elon00?tab=repositories) · [Portfolio hub](https://elon00.github.io/elon00/) · [Engineering evidence](https://github.com/elon00/elon00/blob/main/PORTFOLIO_STATUS.md) · [Security policy](https://github.com/elon00/elon00/blob/main/SECURITY.md)
+[Explore repositories](https://github.com/elon00?tab=repositories) · [Engineering evidence](https://github.com/elon00/elon00/blob/main/PORTFOLIO_STATUS.md) · [Security policy](https://github.com/elon00/elon00/blob/main/SECURITY.md)
 
 > Building verifiable systems at the intersection of autonomous software, decentralized infrastructure, and cryptographic engineering.
 
