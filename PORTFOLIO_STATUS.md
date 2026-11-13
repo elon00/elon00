@@ -1,6 +1,6 @@
-﻿# Portfolio Status Directory: `github.com/elon00`
-**Last Updated**: November 11, 2026  
-**Audited Repositories**: 2,831 repositories (2,668 Reconciled on Main / 94.24%)  
+# Portfolio Status Directory: `github.com/elon00`
+**Last Updated**: November 13, 2026
+**Reconciliation snapshot**: 2,831 classified repositories. 2,668 were merged or synchronized (94.24% of classified entries).
 
 ---
 
@@ -9,10 +9,10 @@
 | :--- | :--- | :--- | :--- | :--- |
 | **`elon00/shor-x402`** | Original | Library / PQC Core | CI & Local Benchmarks | Publish NIST test vector suite |
 | **`elon00/Qmoosa-Agentic-Hub`** | Original | Product (MCP Router) | Devnet & Tool Simulation | Multi-chain dispatch test |
-| **`elon00/ethmumbai-governance-timelock-ai`** | Original | Product / Contract | Testnet (Sepolia 12076499) | Timelock execution verification |
-| **`elon00/zimbabwe-sovereign-ai`** | Original | Product / Contract | Testnet (Sepolia 12076502) | Tokenomics invariant checks |
-| **`elon00/qmoosa-mezo`** | Original | Contract / Anchor | Testnet (Mezo 31611) | Bridge transaction verification |
-| **`elon00/QARBI`** | Original | Contract / Token | Staged Manifest | Arbitrum Sepolia broadcast |
+| **`elon00/ethmumbai-governance-timelock-ai`** | Original | Product / Contract | Bytecode observed at reported Sepolia address | Reconcile the creation receipt and compiler artifact |
+| **`elon00/zimbabwe-sovereign-ai`** | Original | Product / Contract | Bytecode observed at reported Sepolia address | Reconcile the creation receipt and compiler artifact |
+| **`elon00/qmoosa-mezo`** | Original | Contract / Anchor | Bytecode observed at reported Mezo testnet address | Reconcile the creation receipt and compiler artifact |
+| [QARBI](https://github.com/elon00/QARBI) | Original | Agent coordination and escrow | Arbitrum Sepolia testnet, five confirmed creation receipts | Reproduce all contract builds and verify the preview workflows |
 | **`elon00/pq-rdl-blockchain`** | Original | Infrastructure | CI & Devnet Smoke | 3-node cluster benchmark |
 | **`elon00/Republic-of-Divine-Light`** | Original | Governance / Identity | CI & Offline Quorum | Companion to `pq-rdl-blockchain` (Verified) |
 | **`elon00/luther-algorithm`** | Original | Research | Local Proofs | Algorithmic benchmark harness |
