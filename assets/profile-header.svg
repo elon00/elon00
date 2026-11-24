@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Martin Luther — engineering portfolio</title>
+  <desc id="desc">AI systems, blockchain infrastructure, applied cryptography, and open-source engineering.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#101c2e"/><stop offset="1" stop-color="#0b1220"/></linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <rect x="0" y="0" width="8" height="300" rx="4" fill="#70d9c8"/>
+  <g font-family="'Segoe UI',Arial,sans-serif">
+    <text x="58" y="112" fill="#f5f8ff" font-size="76" font-weight="650" letter-spacing="-2">Martin Luther</text>
+    <text x="62" y="174" fill="#d3deee" font-size="29">AI systems · Blockchain infrastructure</text>
+    <text x="62" y="221" fill="#9eafc7" font-size="28">Applied cryptography · Open-source engineering</text>
+  </g>
+  <g stroke="#365068" stroke-width="2" fill="none">
+    <path d="M882 93 1000 67 1100 126 1056 231 920 221Z"/>
+    <path d="m882 93 81 62 137-29M963 155l93 76M963 155l-43 66M963 155l37-88"/>
+    <circle cx="963" cy="155" r="77" stroke="#22374c"/>
+  </g>
+  <g fill="#102b35" stroke="#70d9c8" stroke-width="2">
+    <circle cx="882" cy="93" r="11"/><circle cx="1000" cy="67" r="11"/><circle cx="1100" cy="126" r="11"/><circle cx="1056" cy="231" r="11"/><circle cx="920" cy="221" r="11"/>
+    <circle cx="963" cy="155" r="18" fill="#70d9c8"/>
+  </g>
+</svg>
